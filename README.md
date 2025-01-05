@@ -4,7 +4,11 @@ This project analyzes and optimizes traffic congestion patterns in New York City
 ## Key Features
 ### Dataset
 1. Utilized NYC Open Data's traffic volume dataset containing 1.71 million rows and 14 columns.
+   ![image](https://github.com/user-attachments/assets/c4ad850a-605f-4dca-89f6-f0e28e5a2614)
+   
 2. Cleaned and transformed data, merging columns for date and time representation, resulting in a more structured dataset with 11 columns.
+   ![image](https://github.com/user-attachments/assets/6f0c75e9-df7c-4238-9221-ff334cee96e5)
+
 ### Tools & Technologies
 1. **PostgreSQL**: Managed and queried the large dataset efficiently.
 2. **SQL**: Conducted data transformation, aggregation, and exploratory queries.
